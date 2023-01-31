@@ -1,6 +1,6 @@
 # native_app
 
-A new Flutter project.
+A native app Project that use flutter language that use google services like location and publishing to google playstore
 
 ## Getting Started
 
