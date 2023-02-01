@@ -16,11 +16,17 @@ To test my project ,you must do the following　instruction
 
 3.run this command as I used null safety in my project //flutter run --no-sound-null-safety 
 
-*Importand
+*Important
 
-- [Nedd Flutter 2 ]
+- Nedd Flutter 2 
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What you will learn in this project
+
+1.How to use SQL Lite and create db,insert,update
+
+2.Using SQL Lite with Provider
+
+3.google  map  location service
+
+4.use native device features like camera(you can also try video )
