@@ -7,7 +7,9 @@ To test my project ,you must do the following　instruction
 //私のプロジェクトをテストするには、次の手順を実行する必要があります
 
 1.Run this command// flutter create project name
+
 2.replace all this project files  in your project
+
 3.run this command as I used null safety in my project //flutter run --no-sound-null-safety 
 
 A few resources to get you started if this is your first Flutter project:
