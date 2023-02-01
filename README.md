@@ -1,6 +1,10 @@
 # native_app
 
-A native app Project that use flutter language that use google services like location and publishing to google playstore
+A native app flutter Project  that use
+
+SQL Lite 
+
+google services like location and.
 
 ## Getting Started
 To test my project ,you must do the following　instruction
@@ -12,9 +16,9 @@ To test my project ,you must do the following　instruction
 
 3.run this command as I used null safety in my project //flutter run --no-sound-null-safety 
 
-A few resources to get you started if this is your first Flutter project:
+*Importand
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Nedd Flutter 2 ]
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
