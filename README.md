@@ -8,6 +8,7 @@ google services like location and.
 
 ## Getting Started
 To test my project ,you must do the following　instruction
+
 //私のプロジェクトをテストするには、次の手順を実行する必要があります
 
 1.Run this command// flutter create project name
@@ -19,7 +20,6 @@ To test my project ,you must do the following　instruction
 *Important
 
 - Nedd Flutter 2 
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 ## What you will learn in this project
 
