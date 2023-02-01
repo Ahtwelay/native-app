@@ -1,4 +1,4 @@
-# native_app
+# Memory gallery Native_App
 
 A native app flutter Project  that use
 
@@ -16,6 +16,10 @@ To test my project ,you must do the following　instruction
 2.replace all this project files  in your project
 
 3.run this command as I used null safety in my project //flutter run --no-sound-null-safety 
+
+4.run this command to change pubspec.ymanl launcher icon override to andoird and ios 
+
+flutter pub run flutter_launcher_icons  (to override both android and  ios )
 
 *Important
 
